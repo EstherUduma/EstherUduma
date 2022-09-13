@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/joshmadakor1">Web Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">I.C.T Specialist</a>, <a href="https://www.youtube.com/c/joshmadakor">Access Control Technician</a></h1>
+<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Web Developer</a>, <a href="https://www.linkedin.com/in/esther-ann-uduma/">I.C.T Specialist</a>, <a href="https://www.linkedin.com/in/esther-ann-uduma/">Access Control Technician</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
