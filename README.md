@@ -6,6 +6,7 @@
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
   - [FreeCodeCamp Project 1](https://github.com/EstherUduma/freecodecampProject1/tree/main)
   - [FreeCodeCamp Project 2](https://github.com/EstherUduma/FreeCodeCampProject2)
+  - [FreeCodeCamp Project 3](https://github.com/EstherUduma/FreeCodeCampProject3)
   
  <h2>🏅 Certifications:</h2>
 
