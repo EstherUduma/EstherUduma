@@ -4,11 +4,11 @@
 
   - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
-  - [FreeCodeCamp Project 1](https://github.com/EstherUduma/freecodecampProject1/tree/main)
-  - [FreeCodeCamp Project 2](https://github.com/EstherUduma/FreeCodeCampProject2)
-  - [FreeCodeCamp Project 3](https://github.com/EstherUduma/FreeCodeCampProject3)
-  - [FreeCodeCamp Project 4](https://github.com/EstherUduma/FreeCodeCampProject4)
-  - [FreeCodeCamp Project 5](https://github.com/EstherUduma/FreeCodeCampProject5)
+  - [FreeCodeCamp Project 1 (Product Landing Page)](https://github.com/EstherUduma/freecodecampProject1/tree/main)
+  - [FreeCodeCamp Project 2 (Tribute page)](https://github.com/EstherUduma/FreeCodeCampProject2)
+  - [FreeCodeCamp Project 3 (Technical Documentation Page)](https://github.com/EstherUduma/FreeCodeCampProject3)
+  - [FreeCodeCamp Project 4 (Survey Form)](https://github.com/EstherUduma/FreeCodeCampProject4)
+  - [FreeCodeCamp Project 5 (Personal Portfolio Webpage)](https://github.com/EstherUduma/FreeCodeCampProject5)
   
  <h2>🏅 Certifications:</h2>
 
