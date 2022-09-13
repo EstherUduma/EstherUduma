@@ -8,6 +8,7 @@
   - [FreeCodeCamp Project 2](https://github.com/EstherUduma/FreeCodeCampProject2)
   - [FreeCodeCamp Project 3](https://github.com/EstherUduma/FreeCodeCampProject3)
   - [FreeCodeCamp Project 4](https://github.com/EstherUduma/FreeCodeCampProject4)
+  - [FreeCodeCamp Project 5](https://github.com/EstherUduma/FreeCodeCampProject5)
   
  <h2>🏅 Certifications:</h2>
 
