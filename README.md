@@ -5,6 +5,7 @@
   - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
   - [FreeCodeCamp Project 1](https://github.com/EstherUduma/freecodecampProject1/tree/main)
+  - [FreeCodeCamp Project 2](https://github.com/EstherUduma/FreeCodeCamp-Project-2)
   
  <h2>🏅 Certifications:</h2>
 
