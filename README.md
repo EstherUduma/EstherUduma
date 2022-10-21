@@ -9,6 +9,7 @@
   - [FreeCodeCamp Project 3 (Technical Documentation Page)](https://github.com/EstherUduma/FreeCodeCampProject3)
   - [FreeCodeCamp Project 4 (Survey Form)](https://github.com/EstherUduma/FreeCodeCampProject4)
   - [FreeCodeCamp Project 5 (Personal Portfolio Webpage)](https://github.com/EstherUduma/FreeCodeCampProject5)
+  - [Zuri Training Week 4 NodeJS Task (Number Guessing Game)](https://github.com/EstherUduma/Week-4-NodeJS-Task-Number-Guessing-Game-)
   
  <h2>🏅 Certifications:</h2>
 
