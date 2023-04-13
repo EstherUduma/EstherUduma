@@ -31,8 +31,8 @@
   - [Google Digital Skills For Africa (Google)](https://learndigital.withgoogle.com/link/1ar27gu2qdc)
 
 <h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
- - Frontend Developer
- - Junior Backend Developer
+ - Frontend Developer <br/>
+ - Junior Backend Developer <br/>
  Inorder to gain more practical experience.
 
 <h2> 🤳 Connect with me:</h2>
