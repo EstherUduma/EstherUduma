@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
+  - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
   - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
   - [FreeCodeCamp Project 1 (Product Landing Page)](https://github.com/EstherUduma/freecodecampProject1/tree/main)
