@@ -3,14 +3,17 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
   - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
+  - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
   - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
-  - [FreeCodeCamp Project 1 (Product Landing Page)](https://github.com/EstherUduma/freecodecampProject1/tree/main)
-  - [FreeCodeCamp Project 2 (Tribute page)](https://github.com/EstherUduma/FreeCodeCampProject2)
-  - [FreeCodeCamp Project 3 (Technical Documentation Page)](https://github.com/EstherUduma/FreeCodeCampProject3)
-  - [FreeCodeCamp Project 4 (Survey Form)](https://github.com/EstherUduma/FreeCodeCampProject4)
-  - [FreeCodeCamp Project 5 (Personal Portfolio Webpage)](https://github.com/EstherUduma/FreeCodeCampProject5)
-  - [Zuri Training Week 4 NodeJS Task (Number Guessing Game)](https://github.com/EstherUduma/Week-4-NodeJS-Task-Number-Guessing-Game-)
+  - [Product Page](https://github.com/EstherUduma/Product-Page)
+  - [Tribute Page](https://github.com/EstherUduma/Tribute-Page)
+  - [Technical Documentation Page](https://github.com/EstherUduma/Technical-Documentation-Page)
+  - [My 2nd Personal Portfolio Webpage](https://github.com/EstherUduma/2nd-Personal-Portfolio-Webpage)
+  - [My 1st Personal Portfolio Webpage](https://github.com/EstherUduma/1st-Personal-Portfolio-Webpage)
+  - [Registration / Login Page](https://github.com/EstherUduma/Registration-Login-Form)
+  - [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
+  - [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
   
  <h2>🏅 Certifications:</h2>
 
