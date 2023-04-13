@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Web Developer</a></h1>
+<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Web Developer || Software Engineer (in view)</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
@@ -29,6 +29,11 @@
   - [UI/UX Course (Great Learning)](https://olympus1.mygreatlearning.com/course_certificate/BCOIGXRO)
   - [Check Point Jump Start - SMB (Check Point Software Technologies, Ltd.)](https://www.credly.com/badges/8c40d77f-d84e-4e48-9c9c-97729d83c4b9?source=linked_in_profile)
   - [Google Digital Skills For Africa (Google)](https://learndigital.withgoogle.com/link/1ar27gu2qdc)
+
+<h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
+ - Frontend Developer
+ - Junior Backend Developer
+ Inorder to gain more practical experience.
 
 <h2> 🤳 Connect with me:</h2>
 
