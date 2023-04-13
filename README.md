@@ -17,6 +17,10 @@
   
  <h2>🏅 Certifications:</h2>
 
+  - [Introduction to Back-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/5LL2YCRYLBBZ)
+  - [Full Stack (Frontend And NodeJs) (Ingressive For Good & Zuri)](https://w2pp.zuriboard.com/dashboard/certificate/369cce5d-e748-472c-a0df-5bd77a055b4e)
+  - [Programming with JavaScript (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4RB9ULN99ALA)
+  - [Introduction to Front-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/UMQFVQ464SM2)
   - [Responsive Web Design (freeCodeCamp)](https://freecodecamp.org/certification/estherann/responsive-web-design)
   - [Design Thinking (ProApp - Learn Design)](https://proapp.design/certificate/JAS58QRH2AL09F1E81)
   - [Introduction to Design (ProApp - Learn Design)](https://proapp.design/certificate/JAS58QRKTVKZ7ESUFR)
@@ -32,8 +36,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Ohafia_girl/
-[instagram]: https://www.instagram.com/ohafia_girl/
+[twitter]: https://twitter.com/estherannuduma
 [linkedin]: https://www.linkedin.com/in/esther-ann-uduma/
 
 <!--
