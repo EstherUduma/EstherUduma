@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Web Developer || Software Engineer (in view)</a></h1>
+<h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Frontend Developer || Fullstack Engineer (in view)</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
