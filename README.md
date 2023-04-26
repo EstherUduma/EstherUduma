@@ -3,6 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
   - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
+  - [Budget Web App](https://github.com/EstherUduma/Budget-App)
   - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
   - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
   - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
