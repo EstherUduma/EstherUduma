@@ -18,6 +18,7 @@
  <h2>🏅 Certifications:</h2>
 
   - [Introduction to Back-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/5LL2YCRYLBBZ)
+  - [Complete Web Development (Programming Hero)](https://app.programming-hero.com/certificates/PH18191)
   - [Full Stack (Frontend And NodeJs) (Ingressive For Good & Zuri)](https://w2pp.zuriboard.com/dashboard/certificate/369cce5d-e748-472c-a0df-5bd77a055b4e)
   - [Programming with JavaScript (Coursera)](https://www.coursera.org/account/accomplishments/certificate/4RB9ULN99ALA)
   - [Introduction to Front-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/UMQFVQ464SM2)
