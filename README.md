@@ -18,6 +18,7 @@
  <h2>🏅 Certifications:</h2>
 
   - [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
+  - [Introduction to Git and GitHub (Coursera)](https://www.coursera.org/account/accomplishments/certificate/TPJT98MVYBT3)
   - [Introduction to Back-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/5LL2YCRYLBBZ)
   - [Complete Web Development (Programming Hero)](https://app.programming-hero.com/certificates/PH18191)
   - [Full Stack (Frontend And NodeJs) (Ingressive For Good & Zuri)](https://w2pp.zuriboard.com/dashboard/certificate/369cce5d-e748-472c-a0df-5bd77a055b4e)
@@ -32,10 +33,10 @@
   - [Check Point Jump Start - SMB (Check Point Software Technologies, Ltd.)](https://www.credly.com/badges/8c40d77f-d84e-4e48-9c9c-97729d83c4b9?source=linked_in_profile)
   - [Google Digital Skills For Africa (Google)](https://learndigital.withgoogle.com/link/1ar27gu2qdc)
 
-<h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
+<!--<h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
  - Frontend Developer <br/>
  - Junior Backend Developer <br/>
- Inorder to gain more practical experience.
+ Inorder to gain more practical experience.-->
 
 <h2> 🤳 Connect with me:</h2>
 
