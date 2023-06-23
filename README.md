@@ -1,5 +1,7 @@
 <h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Frontend Developer || Fullstack Engineer (in view)</a></h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFE21C&width=800&lines=I'm+a+passionate+Frontend+Web+Developer+from+Nigeria;a+tech+savvy%2C+and+I+love+coding.+" alt="Typing SVG" /></a>
+
 <h2>👨‍💻 Web Development Projects:</h2>
 
   - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
