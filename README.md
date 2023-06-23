@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology;With+a+vibrant+touch+of+femininity;Join+me+on+this+exciting+journey;As+we+shape+the+future+together!" alt="Typing SVG" /></a>
 
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
+<a href="https://iconscout.com/lotties/web" target="_blank">Free Web designer with idea Animated Illustration</a> by <a href="https://iconscout.com/contributors/nanoagency">nanoagency</a> on <a href="https://iconscout.com">IconScout</a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
