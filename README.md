@@ -49,7 +49,7 @@
 
 [twitter]: https://twitter.com/estherannuduma
 [linkedin]: https://www.linkedin.com/in/esther-ann-uduma/
-
+<br>
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true" />
 <h3 align="left">Languages and Tools:</h3>
