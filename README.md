@@ -1,6 +1,6 @@
 <h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Frontend Developer || Fullstack Engineer (in view)</a></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFE21C&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology;With+a+vibrant+touch+of+femininity;Join+me+on+this+playful+journey;as+we+shape+the+future+together!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0000FF&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology;With+a+vibrant+touch+of+femininity;Join+me+on+this+exciting+journey;as+we+shape+the+future+together!" alt="Typing SVG" /></a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
