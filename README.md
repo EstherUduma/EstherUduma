@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology;With+a+vibrant+touch+of+femininity;Join+me+on+this+exciting+journey;As+we+shape+the+future+together!" alt="Typing SVG" /></a>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="300">
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
