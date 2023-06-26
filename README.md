@@ -1,6 +1,4 @@
-<div align="center">
- <img src="./banner.png">
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 <h1>Hi, I'm Esther Ann Uduma! <br/><a href="https://github.com/EstherUduma">Frontend Developer || Fullstack Engineer (in view)</a></h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="300">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology;With+a+vibrant+touch+of+femininity;Join+her+on+this+exciting+journey;As+she+shapes+the+future+with+technology!" alt="Typing SVG" /></a>
