@@ -31,7 +31,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
   <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true" />
   <div align="center">
-    <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
+    <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat&theme=gotham" alt="EstherUduma" /> </p>
   </div>
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
