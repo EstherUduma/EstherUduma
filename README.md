@@ -30,7 +30,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
 </div>
-<h2>👨‍💻 Web Development Projects:</h2>
+<h2 align="center">👨‍💻 Web Development Projects:</h2>
   - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
   - [Budget Web App](https://github.com/EstherUduma/Budget-App)
   - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
