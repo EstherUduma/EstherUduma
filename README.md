@@ -31,12 +31,8 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
   <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true&theme=gotham" />
-  <div align="center">
-  </div>
+  <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=EstherUduma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="EstherUduma" /></p>  
 </div>
-### 🔝 Top Contributed Repo
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=EstherUduma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="EstherUduma" /></p>  
-![]()
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
 
 - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
