@@ -31,6 +31,7 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
+
 - [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
 - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
 - [Budget Web App](https://github.com/EstherUduma/Budget-App)
