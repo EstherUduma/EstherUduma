@@ -6,10 +6,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology+with;a+vibrant+touch+of+femininity;Join+her+on+this+exciting+journey+as+she;shapes+the+future+with+technology!" alt="Typing SVG" /></a>
 </div>
+<div>
   <h2> 🤳 Connect with me </h2>
   <p>
    <a href="https://twitter.com/estherannuduma" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/estherannuduma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><!--<a href="https://medium.com/@estherannuduma" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="30px"/></a>-->
   </p>
+</div>
 <div align="center">
   <h2> 💻 Tech Stack </h2>
   <p>
@@ -28,8 +30,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
 </div>
-<div align="center">
-  <h2>👨‍💻 Web Development Projects:</h2>
+<h2>👨‍💻 Web Development Projects:</h2>
   - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
   - [Budget Web App](https://github.com/EstherUduma/Budget-App)
   - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
@@ -42,7 +43,6 @@
   - [My 1st Personal Portfolio Webpage](https://github.com/EstherUduma/1st-Personal-Portfolio-Webpage)
   - [Registration / Login Page](https://github.com/EstherUduma/Registration-Login-Form)
   - [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
-</div>
 
   
  <h2>🏅 Certifications:</h2>
