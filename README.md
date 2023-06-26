@@ -29,25 +29,27 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EstherUduma" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
+  <div align="center">
+    <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
+  </div>
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
 
-- [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
 - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
 - [Budget Web App](https://github.com/EstherUduma/Budget-App)
 - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
 - [Freebie Landing Page](https://github.com/EstherUduma/Freebie-landing-page-)
-  - [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
-  - [Product Page](https://github.com/EstherUduma/Product-Page)
-  - [Tribute Page](https://github.com/EstherUduma/Tribute-Page)
-  - [Technical Documentation Page](https://github.com/EstherUduma/Technical-Documentation-Page)
-  - [My 2nd Personal Portfolio Webpage](https://github.com/EstherUduma/2nd-Personal-Portfolio-Webpage)
-  - [My 1st Personal Portfolio Webpage](https://github.com/EstherUduma/1st-Personal-Portfolio-Webpage)
-  - [Registration / Login Page](https://github.com/EstherUduma/Registration-Login-Form)
-  - [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
+- [Northstar Landing Page](https://github.com/EstherUduma/Northstar-landing-page)
+- [Product Page](https://github.com/EstherUduma/Product-Page)
+- [Tribute Page](https://github.com/EstherUduma/Tribute-Page)
+- [Technical Documentation Page](https://github.com/EstherUduma/Technical-Documentation-Page)
+- [My 2nd Personal Portfolio Webpage](https://github.com/EstherUduma/2nd-Personal-Portfolio-Webpage)
+- [My 1st Personal Portfolio Webpage](https://github.com/EstherUduma/1st-Personal-Portfolio-Webpage)
+- [Registration / Login Page](https://github.com/EstherUduma/Registration-Login-Form)
+- [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
 
   
- <h2>🏅 Certifications:</h2>
+ <h2 align="center">🏅 Certifications:</h2>
 
   - [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
   - [Introduction to Git and GitHub (Coursera)](https://www.coursera.org/account/accomplishments/certificate/TPJT98MVYBT3)
@@ -64,10 +66,6 @@
   - [UI/UX Course (Great Learning)](https://olympus1.mygreatlearning.com/course_certificate/BCOIGXRO)
   - [Check Point Jump Start - SMB (Check Point Software Technologies, Ltd.)](https://www.credly.com/badges/8c40d77f-d84e-4e48-9c9c-97729d83c4b9?source=linked_in_profile)
   - [Google Digital Skills For Africa (Google)](https://learndigital.withgoogle.com/link/1ar27gu2qdc)
-
-<div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
-</div>
 
 <!--<h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
  - Frontend Developer <br/>
