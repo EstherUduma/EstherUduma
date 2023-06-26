@@ -24,7 +24,12 @@
     <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
   </p>
 </div>
-
+<div align="center">
+  <h2> 📊 GitHub Stats </h2>
+  ![](https://github-readme-stats.vercel.app/api?username=EstherUduma&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherUduma&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
 </div>
