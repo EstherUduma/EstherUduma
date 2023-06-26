@@ -6,8 +6,12 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0969DA&width=800&lines=  Esther+harnesses+the+power+of+future-forward+technology+with;a+vibrant+touch+of+femininity;Join+her+on+this+exciting+journey+as+she;shapes+the+future+with+technology!" alt="Typing SVG" /></a>
 </div>
+## ❤️ Let's get connected:
+<p>
+ <a href="https://twitter.com/estherannuduma" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/estherannuduma/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><a href="https://medium.com/@estherannuduma" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="30px"/></a>
+</p>
 <div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="cletsymedia" /> </p>
+  <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
 </div>
 
 
