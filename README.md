@@ -26,7 +26,7 @@
 </div>
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact" alt="EstherUduma" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EstherUduma" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en" alt="EstherUduma" /></p>
 
