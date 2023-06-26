@@ -26,12 +26,11 @@
 </div>
 <div align="center">
   <h2> 📊 GitHub Stats </h2>
-  <p>
-    ![](https://github-readme-stats.vercel.app/api?username=EstherUduma&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherUduma&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  </p>
-  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact" alt="EstherUduma" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en" alt="EstherUduma" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&" alt="EstherUduma" /></p>  
 </div>
 <div align="center">
   <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
@@ -88,11 +87,7 @@
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact" alt="EstherUduma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en" alt="EstherUduma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&" alt="EstherUduma" /></p>
 
 <!--
 
