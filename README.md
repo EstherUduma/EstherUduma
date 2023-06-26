@@ -29,6 +29,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EstherUduma" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
+  <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true" />
   <div align="center">
     <p> <img src="https://komarev.com/ghpvc/?username=EstherUduma&label=Profile%20views&color=0e75b6&style=flat" alt="EstherUduma" /> </p>
   </div>
@@ -72,7 +73,7 @@
  - Junior Backend Developer <br/>
  Inorder to gain more practical experience.-->
 
-<h2> 🤳 Connect with me:</h2>
+<!--<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="EstherAnnUduma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -81,8 +82,8 @@
 [twitter]: https://twitter.com/estherannuduma
 [linkedin]: https://www.linkedin.com/in/esther-ann-uduma/
 <br>
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&theme=juicyfresh&no-bg=true" />
+</p>-->
+
 
 
 
