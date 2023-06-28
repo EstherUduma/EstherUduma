@@ -46,9 +46,7 @@
 - [My 2nd Personal Portfolio Webpage](https://github.com/EstherUduma/2nd-Personal-Portfolio-Webpage)
 - [My 1st Personal Portfolio Webpage](https://github.com/EstherUduma/1st-Personal-Portfolio-Webpage)
 - [Registration / Login Page](https://github.com/EstherUduma/Registration-Login-Form)
-- [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4)
-
-  
+- [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4) 
  <h2 align="center">🏅 Certifications:</h2>
 
   - [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
@@ -66,7 +64,11 @@
   - [UI/UX Course (Great Learning)](https://olympus1.mygreatlearning.com/course_certificate/BCOIGXRO)
   - [Check Point Jump Start - SMB (Check Point Software Technologies, Ltd.)](https://www.credly.com/badges/8c40d77f-d84e-4e48-9c9c-97729d83c4b9?source=linked_in_profile)
   - [Google Digital Skills For Africa (Google)](https://learndigital.withgoogle.com/link/1ar27gu2qdc)
-
+<h2 align="center">What if you like my work? 🤩</h2>
+<ul>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
 <!--<h2> 🤔 I’m currently looking for a volunteer opportunity as a:</h2>
  - Frontend Developer <br/>
  - Junior Backend Developer <br/>
