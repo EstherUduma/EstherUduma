@@ -33,7 +33,7 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstherUduma&show_icons=true&locale=en&layout=compact&theme=gotham" alt="EstherUduma" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstherUduma&show_icons=true&locale=en&theme=gotham" alt="EstherUduma" />    </p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstherUduma&theme=gotham" alt="EstherUduma" /></p>  
-  <img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&no-bg=true&theme=gotham" />
+  <p><img src="https://github-profile-trophy.vercel.app/?username=EstherUduma&no-bg=true&theme=onedark" /></p>
   <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=EstherUduma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="EstherUduma" /></p>  
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
