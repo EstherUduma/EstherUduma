@@ -38,6 +38,7 @@
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
 
+- [Recent Portfolio Website](https://estheruduma.github.io/Esthers-portfolio)
 - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
 - [Budget Web App](https://github.com/EstherUduma/Budget-App)
 - [Carousel/Slideshow](https://github.com/EstherUduma/Introduction-to-Javascript-Week-6-and-7)
