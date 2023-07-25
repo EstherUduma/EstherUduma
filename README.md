@@ -53,7 +53,8 @@
 - [Survey Form](https://github.com/EstherUduma/FreeCodeCampProject4) 
  <h2 align="center">🏅 Certifications:</h2>
 
-  - [C PROGRAMMING (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
+  - [React Basis (Coursera)](https://www.coursera.org/account/accomplishments/verify/63FNNCFPB4SL)
+  - [C Programming (Programming Hero)](https://app.programming-hero.com/certificates/PH21560)
   - [Introduction to Git and GitHub (Coursera)](https://www.coursera.org/account/accomplishments/certificate/TPJT98MVYBT3)
   - [Introduction to Back-End Development (Coursera)](https://www.coursera.org/account/accomplishments/certificate/5LL2YCRYLBBZ)
   - [Complete Web Development (Programming Hero)](https://app.programming-hero.com/certificates/PH18191)
