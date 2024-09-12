@@ -38,6 +38,7 @@
 </div>
 <h2 align="center">👨‍💻 Web Development Projects:</h2>
 
+- [Estoma (Travel and Tours Project)](https://estheruduma.github.io/estoma/)
 - [Recent Portfolio Website](https://estheruduma.github.io/Esthers-portfolio)
 - [AuroraTours Landing Page](https://github.com/EstherUduma/AuroraTours-Landing-Page)
 - [Budget Web App](https://github.com/EstherUduma/Budget-App)
